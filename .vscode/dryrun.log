@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'd:/Code/WavPlayer'
+make: Nothing to be done for 'all'.
+make: Leaving directory 'd:/Code/WavPlayer'
+ 
